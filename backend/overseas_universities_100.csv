@@ -1,0 +1,127 @@
+university_name,country,course,min_cgpa,min_ielts,tuition_fee,avg_salary
+MIT,USA,CS,8.5,7.0,55000,120000
+Stanford University,USA,CS,8.7,7.0,57000,125000
+Harvard University,USA,Data Science,8.8,7.5,56000,118000
+Carnegie Mellon University,USA,AI,8.9,7.5,58000,130000
+University of California Berkeley,USA,CS,8.6,7.0,53000,123000
+University of Illinois Urbana-Champaign,USA,Engineering,8.2,6.5,49000,110000
+Georgia Institute of Technology,USA,CS,8.3,6.5,48000,115000
+University of Texas Austin,USA,CS,8.1,6.5,47000,108000
+Purdue University,USA,Engineering,8.0,6.5,45000,100000
+University of Michigan,USA,Data Science,8.4,7.0,52000,112000
+University of Oxford,UK,CS,8.8,7.5,60000,110000
+University of Cambridge,UK,Engineering,8.7,7.5,59000,115000
+Imperial College London,UK,CS,8.5,7.0,58000,108000
+University College London,UK,Data Science,8.2,7.0,55000,100000
+University of Edinburgh,UK,CS,8.0,6.5,50000,95000
+University of Manchester,UK,Engineering,7.8,6.5,48000,90000
+University of Toronto,Canada,CS,8.0,6.5,45000,95000
+University of British Columbia,Canada,Engineering,7.8,6.5,42000,90000
+McGill University,Canada,Data Science,8.2,6.5,43000,92000
+University of Waterloo,Canada,CS,8.2,6.5,46000,98000
+University of Melbourne,Australia,CS,7.8,6.5,40000,85000
+University of Sydney,Australia,IT,7.5,6.5,43000,88000
+Australian National University,Australia,Engineering,7.7,6.5,41000,82000
+Monash University,Australia,Data Science,7.4,6.5,39000,80000
+University of Queensland,Australia,CS,7.6,6.5,39500,81000
+Technical University of Munich,Germany,CS,7.5,6.5,1500,80000
+RWTH Aachen University,Germany,Engineering,7.0,6.0,2000,75000
+Heidelberg University,Germany,Data Science,7.2,6.5,1500,72000
+University of Stuttgart,Germany,Engineering,7.3,6.5,1800,73000
+National University of Singapore,Singapore,CS,8.3,7.0,38000,100000
+Nanyang Technological University,Singapore,AI,8.2,7.0,37000,98000
+Trinity College Dublin,Ireland,CS,7.8,6.5,45000,90000
+University College Dublin,Ireland,Data Science,7.5,6.5,42000,85000
+University of Amsterdam,Netherlands,CS,7.5,6.5,16000,75000
+Delft University of Technology,Netherlands,Engineering,7.8,6.5,18000,80000
+Eindhoven University of Technology,Netherlands,AI,7.6,6.5,17000,78000
+ETH Zurich,Switzerland,CS,8.7,7.0,2000,120000
+EPFL,Switzerland,Engineering,8.5,7.0,2200,115000
+University of Auckland,New Zealand,CS,7.2,6.5,32000,70000
+University of Otago,New Zealand,Data Science,7.0,6.5,30000,68000
+KTH Royal Institute of Technology,Sweden,Engineering,7.5,6.5,15000,78000
+Lund University,Sweden,CS,7.3,6.5,14000,75000
+University of Helsinki,Finland,Data Science,7.2,6.5,13000,72000
+Aalto University,Finland,Engineering,7.4,6.5,15000,76000
+KU Leuven,Belgium,CS,7.5,6.5,10000,70000
+Sorbonne University,France,Engineering,7.0,6.5,12000,72000
+University of Paris-Saclay,France,AI,7.3,6.5,11000,75000
+University of Barcelona,Spain,CS,7.0,6.5,9000,65000
+Politecnico di Milano,Italy,Engineering,7.2,6.5,10000,68000
+University of Warsaw,Poland,CS,6.8,6.0,7000,60000
+Charles University,Czech Republic,Data Science,6.9,6.0,7500,62000
+University of Vienna,Austria,CS,7.0,6.5,8000,65000
+University of Oslo,Norway,Engineering,7.2,6.5,0,78000
+University of Copenhagen,Denmark,AI,7.5,6.5,15000,82000
+Hong Kong University of Science and Technology,Hong Kong,CS,8.0,6.5,42000,95000
+University of Hong Kong,Hong Kong,Engineering,8.1,6.5,40000,92000
+Seoul National University,South Korea,CS,8.0,6.5,25000,85000
+KAIST,South Korea,AI,8.2,6.5,23000,90000
+University of Tokyo,Japan,Engineering,8.3,6.5,30000,88000
+Kyoto University,Japan,CS,8.1,6.5,28000,85000
+University of California San Diego,USA,CS,8.3,7.0,50000,115000
+University of California Los Angeles,USA,CS,8.5,7.0,52000,118000
+University of Wisconsin Madison,USA,Engineering,8.0,6.5,47000,105000
+Ohio State University,USA,Data Science,7.9,6.5,45000,100000
+Pennsylvania State University,USA,Engineering,7.8,6.5,44000,98000
+University of Minnesota Twin Cities,USA,CS,8.0,6.5,46000,102000
+Texas A&M University,USA,Engineering,7.7,6.5,43000,97000
+Arizona State University,USA,CS,7.5,6.5,42000,95000
+University of Florida,USA,Data Science,7.8,6.5,41000,96000
+North Carolina State University,USA,Engineering,7.9,6.5,42000,99000
+University of Bristol,UK,CS,7.8,6.5,47000,90000
+University of Warwick,UK,Data Science,8.0,6.5,48000,92000
+University of Glasgow,UK,Engineering,7.5,6.5,45000,88000
+University of Birmingham,UK,CS,7.6,6.5,44000,87000
+University of Leeds,UK,Engineering,7.4,6.5,43000,85000
+University of Alberta,Canada,Engineering,7.5,6.5,39000,88000
+University of Calgary,Canada,Data Science,7.4,6.5,37000,86000
+Western University,Canada,CS,7.6,6.5,38000,87000
+Queen's University,Canada,Engineering,7.8,6.5,40000,90000
+Dalhousie University,Canada,CS,7.2,6.5,35000,82000
+University of Adelaide,Australia,Engineering,7.2,6.5,36000,78000
+University of Western Australia,Australia,Data Science,7.1,6.5,35000,76000
+RMIT University,Australia,CS,7.0,6.5,34000,75000
+Deakin University,Australia,IT,6.8,6.5,33000,72000
+Griffith University,Australia,Engineering,6.9,6.5,32000,71000
+Humboldt University of Berlin,Germany,CS,7.0,6.5,1500,70000
+University of Freiburg,Germany,Engineering,7.1,6.5,1500,72000
+TU Darmstadt,Germany,Data Science,7.2,6.5,1800,74000
+University of Bonn,Germany,AI,7.3,6.5,1500,75000
+University of Cologne,Germany,CS,7.0,6.5,1500,71000
+University of Basel,Switzerland,Data Science,7.8,6.5,3000,95000
+University of Geneva,Switzerland,Engineering,7.6,6.5,2500,92000
+University of Bern,Switzerland,CS,7.5,6.5,2000,90000
+University of Twente,Netherlands,Engineering,7.3,6.5,16000,76000
+Radboud University,Netherlands,Data Science,7.2,6.5,15000,74000
+Utrecht University,Netherlands,CS,7.4,6.5,15500,75000
+University of Antwerp,Belgium,Engineering,7.0,6.5,9000,68000
+Ghent University,Belgium,Data Science,7.3,6.5,9500,70000
+University of Lyon,France,CS,7.0,6.5,10000,72000
+Grenoble Alpes University,France,Engineering,7.1,6.5,11000,73000
+University of Padua,Italy,Data Science,7.0,6.5,9000,67000
+Sapienza University of Rome,Italy,Engineering,7.1,6.5,9500,68000
+University of Bologna,Italy,CS,7.2,6.5,10000,70000
+University of Lisbon,Portugal,Engineering,6.9,6.0,8000,65000
+University of Porto,Portugal,Data Science,6.8,6.0,7500,64000
+University of Athens,Greece,CS,6.7,6.0,7000,60000
+University of Iceland,Iceland,Engineering,7.0,6.5,5000,70000
+University of Tartu,Estonia,CS,6.8,6.0,6000,62000
+University of Ljubljana,Slovenia,Engineering,6.9,6.0,6500,63000
+University of Zagreb,Croatia,CS,6.7,6.0,6000,61000
+University of Belgrade,Serbia,Engineering,6.8,6.0,5500,60000
+University of Malta,Malta,CS,6.9,6.0,7000,62000
+University of Cape Town,South Africa,Engineering,7.2,6.5,15000,65000
+University of the Witwatersrand,South Africa,Data Science,7.1,6.5,14000,63000
+American University of Beirut,Lebanon,Engineering,7.3,6.5,20000,70000
+Koc University,Turkey,CS,7.2,6.5,18000,68000
+Bogazici University,Turkey,Engineering,7.1,6.5,17000,67000
+University of Sao Paulo,Brazil,Engineering,7.0,6.5,10000,65000
+Pontifical Catholic University of Chile,Chile,CS,7.1,6.5,12000,66000
+University of Buenos Aires,Argentina,Engineering,6.8,6.0,8000,60000
+Tecnologico de Monterrey,Mexico,CS,7.3,6.5,20000,72000
+National Taiwan University,Taiwan,CS,8.0,6.5,20000,85000
+Tsinghua University,China,Engineering,8.5,6.5,25000,90000
+Peking University,China,Data Science,8.4,6.5,24000,88000
+Fudan University,China,CS,8.2,6.5,23000,85000
+Shanghai Jiao Tong University,China,Engineering,8.3,6.5,22000,87000

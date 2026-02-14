@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f4f7fb;
+}
+
+header {
+  text-align: center;
+  background: #0f172a;
+  color: white;
+  padding: 25px;
+}
+#aiInsight {
+  white-space: pre-line;
+}
+
+.badge-top {
+  background: #22c55e;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 30px auto;
+}
+
+.card {
+  background: white;
+  padding: 25px;
+  border-radius: 14px;
+  box-shadow: 0px 6px 18px rgba(0,0,0,0.08);
+  margin-bottom: 25px;
+}
+
+.center {
+  text-align: center;
+}
+
+.form-card input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+button {
+  width: 100%;
+  padding: 14px;
+  border: none;
+  border-radius: 8px;
+  background: #2563eb;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1d4ed8;
+}
+
+/* Gauge */
+.gauge {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background: conic-gradient(#22c55e 0%, #e5e7eb 0%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px auto;
+}
+
+.gauge-value {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.prob-label {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.ai-card {
+  background: #eef2ff;
+}
+
+.section-title {
+  margin-top: 40px;
+}
+
+.results-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.result-card {
+  padding: 20px;
+  border-radius: 12px;
+  background: white;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.05);
+}
+
+.roi-high { color: #16a34a; font-weight: bold; }
+.roi-medium { color: #f59e0b; font-weight: bold; }
+.roi-low { color: #ef4444; font-weight: bold; }
+
+.fit-safe { color: #22c55e; }
+.fit-moderate { color: #f59e0b; }
+.fit-ambitious { color: #ef4444; }
+
+.hidden {
+  display: none;
+}
